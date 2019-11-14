@@ -1,0 +1,51 @@
+{
+  "id": "1508652",
+  "name": "nwe_vue",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "318441",
+      "name": "windows",
+      "font_class": "windows",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    },
+    {
+      "icon_id": "340192",
+      "name": "linux",
+      "font_class": "linux",
+      "unicode": "e6cd",
+      "unicode_decimal": 59085
+    },
+    {
+      "icon_id": "371282",
+      "name": "apple",
+      "font_class": "apple",
+      "unicode": "e8b6",
+      "unicode_decimal": 59574
+    },
+    {
+      "icon_id": "2942771",
+      "name": "android",
+      "font_class": "android",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "5603224",
+      "name": "FAQ",
+      "font_class": "FAQ",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "7692790",
+      "name": "mac",
+      "font_class": "mac",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    }
+  ]
+}
